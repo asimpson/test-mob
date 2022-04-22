@@ -1,0 +1,6 @@
+MOB_NOTIFY_COMMAND="touch /home/adam/mob-test.txt""
+MOB_GIT_HOOKS_ENABLED=true
+MOB_WIP_COMMIT_MESSAGE="test test..."
+MOB_TIMER_ROOM="adam-test"
+MOB_TIMER="100"
+
